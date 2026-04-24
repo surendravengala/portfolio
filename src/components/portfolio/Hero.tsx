@@ -143,7 +143,7 @@ useEffect(() => {
 {"    "}"NLP",<br />
 {"    "}"LangChain"<br />
 {"  "}],<br />
-{"  "}"experience": <span className="text-primary">"Full Stack Developer"</span>,<br />
+{"  "}"experience": <span className="text-primary">"Fresher"</span>,<br />
 {"  "}"status": <span className="text-primary">"Open to Opportunities"</span>,<br />
 {"  "}"immediate_joiner": <span className="text-primary">true</span><br />
 {"}"}<br />
